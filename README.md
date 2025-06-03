@@ -13,6 +13,7 @@ The project involved precise experimental setup, data collection using various a
 * **Full Scientific Report:** This document details the entire experimental process, from theoretical background to conclusions and recommendations, including the application of four distinct methods for determining the refractive index.
 [View Full Snell's Law Report](https://github.com/sushant1203/physics-final-scientific-report/blob/main/Physics%20lab%20report%20-%20Sushant%20Jasra.pdf)
 
+
 ---
 
 ## 📄 Abstract
@@ -21,21 +22,17 @@ The refractive index of a material shows how much a beam of light is bent or ref
 
 ---
 
-## 📖 Report Structure & Key Content
+## 🔬 Experiment Highlights & Methodologies
 
-The full report follows a standard scientific structure:
+The core objective was to determine the refractive index of a glass block. This was achieved by:
 
-* **Introduction:** Outlines the aim of the experiment and provides the theoretical background of Snell's Law and the concept of refractive index. *(The refractive index of a material is the ratio between the speed of light in a vacuum and the speed of light in that material.)*
-* **Experimental Method:** Details the apparatus used (light source, glass block, protractor, ruler, etc.), the setup, and the procedures followed for measuring angles of incidence and refraction. The experiment explored **four distinct methods to determine the refractive index (n₂)**:
-    * **Method 1:**: Standard graphical method plotting sin(θi) vs sin(θr)
-    * **Method 2 (with outlier consideration):**Analysis of the dataset with specific outlier removal criteria applied before calculating 'n'.
-[See details of Method 2](https://www.desmos.com/calculator/8lclowzfx0)]
-    * **Method 3:** Direct calculation from individual angle pairs.
-    * **Method 4 (SOHCAHTOA application):** Utilising direct trigonometric relationships (SOHCAHTOA) from ray tracing diagrams.
-[See details of Method 4](https://www.desmos.com/calculator/yuo6izlqbp)]
-* **Results:** Presents the collected data, calculations for the refractive index from each of the four methods, and includes tables and potentially graphs (e.g., `sin θi` vs. `sin θr`). This section shows the comparative results from each approach.
-* **Discussion:** Analyses the obtained results, compares values from the different methods (including the specific considerations for method 2 and the trigonometric approach of method 4), discusses sources of error and uncertainty, evaluates assumptions and limitations, and compares findings to expected values for glass (approximately 1.5).
-* **Conclusion:** Summarises the findings about the initial aims, reflects on the success and nuances of the different methods employed, and provides recommendations for improving experimental accuracy.
+* Utilising a ray box, glass block, protractor, and ruler for precise measurements.
+* Applying Snell's Law (`n1 sin(θ1) = n2 sin(θ2)`).
+* Employing **four distinct analytical methods** to calculate the refractive index, including graphical analysis and direct trigonometric approaches (further detailed in the full report).
+    * One method involved specific consideration of outliers: [See details of Method 2](https://www.desmos.com/calculator/8lclowzfx0)
+    * Another method utilised direct SOHCAHTOA applications: [See details of Method 4](https://www.desmos.com/calculator/yuo6izlqbp)
+* Comparing experimental values to the expected refractive index of glass (approx. 1.5).
+* Analysing sources of error and discussing the assumptions and limitations of the experiment.
 
 ---
 
