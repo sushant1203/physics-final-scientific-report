@@ -62,8 +62,11 @@ This scientific report and the underlying experimental work showcase:
 
 ---
 
-## 📄 License
+## 📄 Copyright and Licensing
+Copyright (c) 2025 [Sushant Jasra Kumar]
 
-* © [2025] [Sushant Jasra Kumar] All Rights Reserved.
+The code for all projects in this portfolio is licensed under the **[MIT License](https://github.com/sushant1203/sushant1203/blob/main/LICENSE)**.
+
+All non-code assets, including PDF documents, images, and visual designs, are dedicated to the public domain under the **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://github.com/sushant1203/sushant1203/blob/main/LICENSE2)**.
 
 ---
